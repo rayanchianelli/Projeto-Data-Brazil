@@ -1,6 +1,6 @@
 # Data Brazil
 
-  It was analysed the data disponibilized for the platform DataHacker about the users of the platform and their relations with brazilian reality.
+  It was analysed the data disponibilized for the platform DataHacker about the users of the platform and their relations with brazilian reality in 2022.
   
 # Methods
   - Grouping
